@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @GreyWolfXD
+Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://t.me/GreyWolfXD">
+  <img align="left" alt="GreyWolfXD Telegram" width="22px" src="https://img.icons8.com/nolan/64/telegram-app.png" />
+</a>
+- 👋 I’m Vaibhav Chandra
 - 👀 I’m interested in Telegram Bot Development
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Telegram Bot Developemnt
-- 📫 Contact Me @GreyWolfXD on Telegram
+
 
 <!---
 TheGreyWolfXD/TheGreyWolfXD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +16,4 @@ Happy to see you here! [Visitors](https://visitor-badge.glitch.me/badge?page_id=
 
 <h2 align="center'>My GitHub Stats: 😎</h2>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheGreyWolfXD&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
