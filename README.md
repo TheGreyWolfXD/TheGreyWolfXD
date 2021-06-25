@@ -15,6 +15,6 @@ You can click the Preview link to take a look at your changes.
 Happy to see you here! ![](https://visitor-badge.glitch.me/badge?page_id=TheGreyWolfXD)
 <br/>
 
-<h2 align="center'>My GitHub Stats: 😎</h2>
+My GitHub Stats: 😎
 
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
